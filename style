@@ -1,0 +1,41 @@
+@import url(http://fonts.googleapis.com/css?family=Cinzel+Decorative:400,700);
+
+html {
+	font-size:100%;
+	height:100%;
+	width:100%;
+	outline:none;
+}
+body {
+	margin: 0 auto;
+	font-family:'Open Sans',sans-serif;
+}
+.page-width {
+	padding-left: 24px !important;
+	padding-right: 24px !important;
+	padding-left: 1.6rem !important;
+	padding-right: 1.6rem !important;
+}
+header#masthead {
+	background: url('./images/headerbg.jpg') repeat-x;
+	height: 175px;
+}
+.site-header {
+	width: 67%;
+	margin-left: 30%;
+}
+.header-title a {
+	text-decoration: none;
+	color: #6f0018;
+	margin:;
+}
+h1.site-title {
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 40px;
+	font-weight: bold;
+	margin-left: 50px;
+}
+.site-description {
+	background: #fff
+	height: ;
+}
